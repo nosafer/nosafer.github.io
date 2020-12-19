@@ -1,4 +1,4 @@
-# VulWiki
+# 前言
 
 
 > 基于零组公开漏洞库
@@ -24,6 +24,8 @@ Markdown文件内添加漏洞详情
 
 
 # Change Log
+
+* 2020-12-19 PowerCreatorCms任意上传
 
 * 2020-12-14 74cms v6.0.48模版注入+文件包含getshell,CVE-2019-11580 Atlassian Crowd RCE,s2-061
 

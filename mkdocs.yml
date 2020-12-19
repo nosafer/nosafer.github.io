@@ -1,4 +1,10 @@
 site_name: Wiki
+site_description: VulWiki，漏洞库
+site_author: Morker
+site_url: https://wiki.96.mk/
+
+repo_name: 'nosafer/nosafer.github.io'
+repo_url: 'https://github.com/nosafer/nosafer.github.io'
 
 theme:
   name: material
@@ -10,6 +16,9 @@ theme:
     scheme: 'preference'
 
 extra:
+  social:
+    - type: github
+      link: https://github.com/nosafer
   search:
     language: 'jp'
 

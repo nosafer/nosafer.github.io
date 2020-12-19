@@ -1,4 +1,4 @@
-# VulWiki
+# 前言
 
 
 > 基于零组公开漏洞库
@@ -25,11 +25,13 @@ Markdown文件内添加漏洞详情
 
 # Change Log
 
-* 2020-12-14 74cms v6.0.48模版注入+文件包含getshell,CVE-2019-11580 Atlassian Crowd RCE,s2-061
+* 2020-12-19 添加PowerCreatorCms任意上传
 
-* 2020-12-3 ThinkAdmin未授权列目录任意文件读取(CVE-2020-25540)漏洞
+* 2020-12-14 添加74cms v6.0.48模版注入+文件包含getshell,CVE-2019-11580 Atlassian Crowd RCE,s2-061
 
-* 2020-11-17 CVE-2020-26217 XStream XML反序列化远程代码执行，Citrix XenMobile CVE-2020-8209
+* 2020-12-3 添加ThinkAdmin未授权列目录任意文件读取(CVE-2020-25540)漏洞
+
+* 2020-11-17 添加CVE-2020-26217 XStream XML反序列化远程代码执行，Citrix XenMobile CVE-2020-8209
 * 
 
 * 2020-11-3 添加禅道<=12.4.2 后台getshell，windows本地提权漏洞，Linux本地提权漏洞

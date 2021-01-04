@@ -25,6 +25,7 @@ Markdown文件内添加漏洞详情
 
 # Change Log
 
+* 2021-01-04 添加 Beescms_v4.0 sql注入漏洞分析
 * 2020-12-29 添加 Docker 容器逃逸漏洞 (CVE-2020-15257)复现、gitlab-11.4.7远程代码执行漏洞及exp史诗级详细剖析
 * 2020-12-25 添加 狂雨CMS后台SQL代码执行、狂雨CMS后台文件包含getshell、狂雨CMS数据库备份地址爆破、MKCMS v7.0.3 sql注入漏洞审计、Nexus Repository Manager3 ProXXE分析(CVE-2020-29436)
 * 2020-12-21 添加 Apache Unomi远程代码执行漏洞复现-CVE-2020-13942
